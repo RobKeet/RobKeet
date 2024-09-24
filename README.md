@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning new ways to use JavaScript, and next will probably be jQuery
 - 💞️ I’m looking to collaborate on (maybe your project?)
 - 📫 How to reach me LinkTr.ee/RobKeetlaer
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm slowly designing and building a MicROBpolis... ;)
 
 <!---
